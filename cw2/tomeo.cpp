@@ -75,7 +75,7 @@ int main(int argc, char *argv[]) {
     vector<TheButtonInfo> videos;
 
     if (argc == 1)
-        videos = getInfoIn(  "/tmp/XXX/");
+        videos = getInfoIn(  "/home/csunix/ll17u4a/Desktop/tmp/2811_videos");
     else
         videos = getInfoIn( string(argv[1]) );
 

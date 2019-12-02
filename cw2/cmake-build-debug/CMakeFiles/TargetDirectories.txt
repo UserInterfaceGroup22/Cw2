@@ -1,0 +1,4 @@
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2_automoc.dir
