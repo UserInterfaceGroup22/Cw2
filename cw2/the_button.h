@@ -15,14 +15,14 @@ public:
     QUrl* url; // video file to play
     QIcon* icon; // icon to display
 
-    TheButtonInfo ( QUrl* url, QIcon* icon) : url (url), icon (icon) {}
+    TheButtonInfo ( QUrl* url, QIcon* icon) : url (url), icon (icon) {} //constructor for button info
 };
 
 class TheButton : public QPushButton {
     Q_OBJECT
 
 public:
-    TheButtonInfo* info;
+    TheButtonInfo* info; //pointer of type thebuttoninfo
 
      TheButton(QWidget *parent) :  QPushButton(parent) {
          setIconSize(QSize(200,110));

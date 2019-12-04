@@ -1,0 +1,4 @@
+/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir
+/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2_automoc.dir
