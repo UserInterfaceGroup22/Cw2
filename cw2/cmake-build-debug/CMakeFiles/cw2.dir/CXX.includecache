@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/cserv1_a/soc_msc/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.h
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
 QtWidgets/QPushButton
 -
 
-/home/cserv1_a/soc_msc/sc18msru/Documents/UserInterface/Cw2/cw2/the_player.h
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
 QApplication
 -
 QMediaPlayer
 -
 the_button.h
-/home/cserv1_a/soc_msc/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.h
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
 vector
 -
 QTimer
@@ -33,6 +33,10 @@ qdiriterator.h
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtCore/QFileInfo
 qfileinfo.h
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtCore/qfileinfo.h
+
+/home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtCore/QMargins
+qmargins.h
+/home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtCore/qmargins.h
 
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtCore/QSharedDataPointer
 qshareddata.h
@@ -1338,53 +1342,53 @@ QtGui/qkeysequence.h
 QtGui/qevent.h
 -
 
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/cw2_automoc.cpp
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.cpp
 cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
 cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
 
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
-../../../../../../../../cserv1_a/soc_msc/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.h
-/home/cserv1_a/soc_msc/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
+../../../../../../../../cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
-../../../../../../../../cserv1_a/soc_msc/sc18msru/Documents/UserInterface/Cw2/cw2/the_player.h
-/home/cserv1_a/soc_msc/sc18msru/Documents/UserInterface/Cw2/cw2/the_player.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
+../../../../../../../../cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
+/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.cpp
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.cpp
 the_button.h
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
 
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
 QtWidgets/QPushButton
 -
 
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_player.cpp
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.cpp
 the_player.h
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_player.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
 
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_player.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
 QApplication
 -
 QMediaPlayer
 -
 the_button.h
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
 vector
 -
 QTimer
 -
 
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/tomeo.cpp
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/tomeo.cpp
 iostream
 -
 QApplication
@@ -1411,8 +1415,10 @@ QtCore/QDir
 -
 QtCore/QDirIterator
 -
+QtCore/QMargins
+-
 the_player.h
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_player.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
 the_button.h
-/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.h
+/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
 

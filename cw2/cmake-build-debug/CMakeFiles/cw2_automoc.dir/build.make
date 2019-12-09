@@ -43,10 +43,10 @@ RM = /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2
+CMAKE_SOURCE_DIR = /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug
+CMAKE_BINARY_DIR = /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug
 
 # Utility rule file for cw2_automoc.
 
@@ -54,8 +54,8 @@ CMAKE_BINARY_DIR = /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-b
 include CMakeFiles/cw2_automoc.dir/progress.make
 
 CMakeFiles/cw2_automoc:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic moc, uic and rcc for target cw2"
-	/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_autogen /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2_automoc.dir/ Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic moc, uic and rcc for target cw2"
+	/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_autogen /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2_automoc.dir/ Debug
 
 cw2_automoc: CMakeFiles/cw2_automoc
 cw2_automoc: CMakeFiles/cw2_automoc.dir/build.make
@@ -72,6 +72,6 @@ CMakeFiles/cw2_automoc.dir/clean:
 .PHONY : CMakeFiles/cw2_automoc.dir/clean
 
 CMakeFiles/cw2_automoc.dir/depend:
-	cd /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2 /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2 /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug /home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2_automoc.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2 /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2 /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2_automoc.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cw2_automoc.dir/depend
 

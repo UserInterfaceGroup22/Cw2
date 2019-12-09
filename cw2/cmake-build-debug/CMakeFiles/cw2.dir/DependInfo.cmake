@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/cw2_automoc.cpp" "/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir/cw2_automoc.cpp.o"
-  "/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_button.cpp" "/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir/the_button.cpp.o"
-  "/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/the_player.cpp" "/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir/the_player.cpp.o"
-  "/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/tomeo.cpp" "/home/csunix/sc18msru/Documents/UserInterface/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir/tomeo.cpp.o"
+  "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.cpp" "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir/cw2_automoc.cpp.o"
+  "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.cpp" "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir/the_button.cpp.o"
+  "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.cpp" "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir/the_player.cpp.o"
+  "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/tomeo.cpp" "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir/tomeo.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
