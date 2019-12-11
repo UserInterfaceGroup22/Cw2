@@ -1224,12 +1224,20 @@ qboxlayout.h
 qpushbutton.h
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qpushbutton.h
 
+/home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/QScrollArea
+qscrollarea.h
+/home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qscrollarea.h
+
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qabstractbutton.h
 QtGui/qicon.h
 -
 QtGui/qkeysequence.h
 -
 QtWidgets/qwidget.h
+-
+
+/home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qabstractscrollarea.h
+QtWidgets/qframe.h
 -
 
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qapplication.h
@@ -1270,6 +1278,10 @@ QtCore/qscopedpointer.h
 QtGui/qicon.h
 -
 
+/home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qframe.h
+QtWidgets/qwidget.h
+-
+
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qgridlayout.h
 QtWidgets/qlayout.h
 -
@@ -1306,6 +1318,10 @@ limits.h
 
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qpushbutton.h
 QtWidgets/qabstractbutton.h
+-
+
+/home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qscrollarea.h
+QtWidgets/qabstractscrollarea.h
 -
 
 /home/csunix/linux/apps/install/qt/5.3.1/5.3/gcc_64/include/QtWidgets/qsizepolicy.h
@@ -1421,4 +1437,6 @@ the_player.h
 /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
 the_button.h
 /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+QtWidgets/QScrollArea
+-
 

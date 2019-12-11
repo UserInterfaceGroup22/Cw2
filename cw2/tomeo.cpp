@@ -26,7 +26,7 @@
 #include <QtCore/QMargins>
 #include "the_player.h"
 #include "the_button.h"
-
+#include <QtWidgets/QScrollArea>
 
 using namespace std;
 
@@ -63,60 +63,72 @@ vector<TheButtonInfo> getInfoIn (string loc) {
 }
 
 
-int main(int argc, char *argv[]) {
 
+
+
+
+
+
+
+int main(int argc, char *argv[]) {
     // let's just check that Qt is operational first
     cout << "Qt version: " << QT_VERSION_STR << endl;
 
     // create the Qt Application
     QApplication app(argc, argv);
 
+    //adding a scroll area
+    QScrollArea * Scroll = new QScrollArea();
     QWidget window;
     QHBoxLayout *top = new QHBoxLayout();
 
+    // create the main window and layout
+    //set the window properties
+    window.setLayout(top);
+    window.setWindowTitle("Outdoor Application");
+    window.setMinimumSize(768, 509);//size of the smallest ipad
+    window.setMaximumSize(1060,813); //size for the largest ipad
+
+
     // collect all the videos in the folder
     vector<TheButtonInfo> videos;
-
     if (argc == 1)
         videos = getInfoIn( "/home/csunix/ll17u4a/Desktop/2811_videos" );
     else
         videos = getInfoIn( string(argv[1]) );
-
     if (videos.size() == 0) {
         cerr << "no videos found! download from https://vcg.leeds.ac.uk/wp-content/static/2811/the/videos.zip into /tmp/XXX, and update the code on line 77";
         exit(-1);
     }
 
 
-
-
     // the widget that will show the video
     QVideoWidget *videoWidget = new QVideoWidget;
     // the QMediaPlayer which controls the playback
     ThePlayer *player = new ThePlayer;
+    player->setVolume(0); //change the volume
     player->setVideoOutput(videoWidget);
 
 
 
-    // a row of buttons
+    // a button widget
     QWidget *buttonWidget = new QWidget();
-    buttonWidget->setStyleSheet("background-color:#b6c2de;");
-
     // a list of the buttons
     vector<TheButton*> buttons;
-    // the buttons are arranged horizontally
-    QVBoxLayout *layout = new QVBoxLayout(); //created a new box layout (iteration 1)
+    // the buttons are arranged vertically
+    QVBoxLayout *layout = new QVBoxLayout();
+    //set the buttons into a layout
     buttonWidget->setLayout(layout);
 
         //adds the button and connects it
-        for ( int i = 0; i < 6; i++ ) { //changed to 6 instead of 4
+        for ( int i = 0; i < 7; i++ ) { //changed to 6 instead of 4
             TheButton *button = new TheButton(buttonWidget);
             button->connect(button, SIGNAL(jumpTo(TheButtonInfo* )), player, SLOT (jumpTo(TheButtonInfo* ))); // when clicked, tell the player to play.
             buttons.push_back(button);
 //            button->setFixedSize(150,100);
 //            button->setIconSize(QSize(140,90));
-            button->setStyleSheet("border: 1px solid red;");
-            button->setFlat(true);
+//            button->setStyleSheet("border: 1px solid red;");
+//            button->setFlat(true);
 
             layout->addWidget(button);
             button->init(&videos.at(i));
@@ -124,17 +136,9 @@ int main(int argc, char *argv[]) {
 
 
 
+
     // tell the player what buttons and videos are available
     player->setContent(&buttons, & videos);
-
-    // create the main window and layout
-    window.setLayout(top);
-//    used to change colour below
-//    window.setStyleSheet("background-color:gray;");
-    window.setWindowTitle("Outdoor Application");
-    window.setMinimumSize(768, 509);//size of the smallest ipad
-    window.setMaximumSize(1060,813); //size for the largest ipad
-
 
 
     // add the video and the buttons to the top level widget
