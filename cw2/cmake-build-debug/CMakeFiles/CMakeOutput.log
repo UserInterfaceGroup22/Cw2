@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_423cc/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_423cc.dir/build.make CMakeFiles/cmTC_423cc.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_423cc.dir/testCCompiler.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_423cc.dir/testCCompiler.c.o   -c /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_423cc
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_423cc.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_423cc.dir/testCCompiler.c.o  -o cmTC_423cc 
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_4a2a5/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_4a2a5.dir/build.make CMakeFiles/cmTC_4a2a5.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4a2a5.dir/testCCompiler.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_4a2a5.dir/testCCompiler.c.o   -c /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_4a2a5
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4a2a5.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_4a2a5.dir/testCCompiler.c.o  -o cmTC_4a2a5 
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_b66bb/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_b66bb.dir/build.make CMakeFiles/cmTC_b66bb.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o   -c /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/share/cmake-3.7/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_b66bb
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b66bb.dir/link.txt --verbose=1
-/usr/bin/cc      -v CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o  -o cmTC_b66bb  
+Run Build Command:"/usr/bin/gmake" "cmTC_aed38/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_aed38.dir/build.make CMakeFiles/cmTC_aed38.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o   -c /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/share/cmake-3.7/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_aed38
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aed38.dir/link.txt --verbose=1
+/usr/bin/cc      -v CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o  -o cmTC_aed38  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/lto-wrapper
@@ -59,23 +59,23 @@ Thread model: posix
 gcc version 4.8.5 20150623 (Red Hat 4.8.5-39) (GCC) 
 COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/:/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b66bb' '-mtune=generic' '-march=x86-64'
- /usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2 --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_b66bb /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../.. CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crtn.o
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_aed38' '-mtune=generic' '-march=x86-64'
+ /usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2 --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_aed38 /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../.. CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crtn.o
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_b66bb/fast"]
-  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_b66bb.dir/build.make CMakeFiles/cmTC_b66bb.dir/build]
-  ignore line: [gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o   -c /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/share/cmake-3.7/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_b66bb]
-  ignore line: [/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b66bb.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o  -o cmTC_b66bb  ]
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_aed38/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_aed38.dir/build.make CMakeFiles/cmTC_aed38.dir/build]
+  ignore line: [gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o   -c /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/share/cmake-3.7/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_aed38]
+  ignore line: [/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aed38.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o  -o cmTC_aed38  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/lto-wrapper]
@@ -85,8 +85,8 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 4.8.5 20150623 (Red Hat 4.8.5-39) (GCC) ]
   ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/:/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b66bb' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2 --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_b66bb /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../.. CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_aed38' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2 --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_aed38 /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../.. CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crtn.o]
     arg [/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2] ==> ignore
     arg [--build-id] ==> ignore
     arg [--no-add-needed] ==> ignore
@@ -97,7 +97,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_b66bb] ==> ignore
+    arg [cmTC_aed38] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o] ==> ignore
@@ -106,7 +106,7 @@ Parsed C implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../..]
-    arg [CMakeFiles/cmTC_b66bb.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_aed38.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -135,17 +135,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_f9cfd/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_f9cfd.dir/build.make CMakeFiles/cmTC_f9cfd.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f9cfd.dir/feature_tests.c.o
-/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_f9cfd.dir/feature_tests.c.o   -c /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_f9cfd
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f9cfd.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_f9cfd.dir/feature_tests.c.o  -o cmTC_f9cfd 
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_e8a73/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_e8a73.dir/build.make CMakeFiles/cmTC_e8a73.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e8a73.dir/feature_tests.c.o
+/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_e8a73.dir/feature_tests.c.o   -c /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_e8a73
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e8a73.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_e8a73.dir/feature_tests.c.o  -o cmTC_e8a73 
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -155,17 +155,17 @@ gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_c7405/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_c7405.dir/build.make CMakeFiles/cmTC_c7405.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c7405.dir/feature_tests.c.o
-/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_c7405.dir/feature_tests.c.o   -c /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_c7405
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c7405.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_c7405.dir/feature_tests.c.o  -o cmTC_c7405 
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_0cbcf/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_0cbcf.dir/build.make CMakeFiles/cmTC_0cbcf.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0cbcf.dir/feature_tests.c.o
+/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_0cbcf.dir/feature_tests.c.o   -c /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_0cbcf
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0cbcf.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_0cbcf.dir/feature_tests.c.o  -o cmTC_0cbcf 
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -175,17 +175,17 @@ gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_2d731/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_2d731.dir/build.make CMakeFiles/cmTC_2d731.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_2d731.dir/feature_tests.c.o
-/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_2d731.dir/feature_tests.c.o   -c /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_2d731
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2d731.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_2d731.dir/feature_tests.c.o  -o cmTC_2d731 
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_338c2/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_338c2.dir/build.make CMakeFiles/cmTC_338c2.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_338c2.dir/feature_tests.c.o
+/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_338c2.dir/feature_tests.c.o   -c /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_338c2
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_338c2.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_338c2.dir/feature_tests.c.o  -o cmTC_338c2 
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -193,30 +193,30 @@ gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_3e800/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_3e800.dir/build.make CMakeFiles/cmTC_3e800.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_3e800.dir/testCXXCompiler.cxx.o
-/usr/bin/c++      -o CMakeFiles/cmTC_3e800.dir/testCXXCompiler.cxx.o -c /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_3e800
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3e800.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_3e800.dir/testCXXCompiler.cxx.o  -o cmTC_3e800 
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_48ee8/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_48ee8.dir/build.make CMakeFiles/cmTC_48ee8.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_48ee8.dir/testCXXCompiler.cxx.o
+/usr/bin/c++      -o CMakeFiles/cmTC_48ee8.dir/testCXXCompiler.cxx.o -c /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_48ee8
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_48ee8.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_48ee8.dir/testCXXCompiler.cxx.o  -o cmTC_48ee8 
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_8a0d3/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_8a0d3.dir/build.make CMakeFiles/cmTC_8a0d3.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++      -o CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o -c /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/share/cmake-3.7/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_8a0d3
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8a0d3.dir/link.txt --verbose=1
-/usr/bin/c++       -v CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_8a0d3  
+Run Build Command:"/usr/bin/gmake" "cmTC_295b9/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_295b9.dir/build.make CMakeFiles/cmTC_295b9.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++      -o CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o -c /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/share/cmake-3.7/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_295b9
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_295b9.dir/link.txt --verbose=1
+/usr/bin/c++       -v CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_295b9  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/lto-wrapper
@@ -226,23 +226,23 @@ Thread model: posix
 gcc version 4.8.5 20150623 (Red Hat 4.8.5-39) (GCC) 
 COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/:/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8a0d3' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2 --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_8a0d3 /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../.. CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crtn.o
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_295b9' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2 --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_295b9 /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../.. CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crtn.o
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_8a0d3/fast"]
-  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_8a0d3.dir/build.make CMakeFiles/cmTC_8a0d3.dir/build]
-  ignore line: [gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o -c /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/share/cmake-3.7/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_8a0d3]
-  ignore line: [/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8a0d3.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_8a0d3  ]
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_295b9/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_295b9.dir/build.make CMakeFiles/cmTC_295b9.dir/build]
+  ignore line: [gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o -c /home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/share/cmake-3.7/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_295b9]
+  ignore line: [/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_295b9.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_295b9  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/lto-wrapper]
@@ -252,8 +252,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 4.8.5 20150623 (Red Hat 4.8.5-39) (GCC) ]
   ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/:/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8a0d3' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2 --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_8a0d3 /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../.. CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_295b9' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2 --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_295b9 /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../.. CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crtn.o]
     arg [/usr/libexec/gcc/x86_64-redhat-linux/4.8.5/collect2] ==> ignore
     arg [--build-id] ==> ignore
     arg [--no-add-needed] ==> ignore
@@ -264,7 +264,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_8a0d3] ==> ignore
+    arg [cmTC_295b9] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/4.8.5/crtbegin.o] ==> ignore
@@ -273,7 +273,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../..]
-    arg [CMakeFiles/cmTC_8a0d3.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_295b9.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -300,17 +300,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1y] compiler features compiled with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_615bc/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_615bc.dir/build.make CMakeFiles/cmTC_615bc.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_615bc.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++1y -o CMakeFiles/cmTC_615bc.dir/feature_tests.cxx.o -c /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_615bc
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_615bc.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_615bc.dir/feature_tests.cxx.o  -o cmTC_615bc 
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_2f3d7/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_2f3d7.dir/build.make CMakeFiles/cmTC_2f3d7.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2f3d7.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++1y -o CMakeFiles/cmTC_2f3d7.dir/feature_tests.cxx.o -c /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_2f3d7
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2f3d7.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_2f3d7.dir/feature_tests.cxx.o  -o cmTC_2f3d7 
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -373,17 +373,17 @@ gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_77810/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_77810.dir/build.make CMakeFiles/cmTC_77810.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_77810.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_77810.dir/feature_tests.cxx.o -c /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_77810
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_77810.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_77810.dir/feature_tests.cxx.o  -o cmTC_77810 
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_b1956/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_b1956.dir/build.make CMakeFiles/cmTC_b1956.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b1956.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_b1956.dir/feature_tests.cxx.o -c /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_b1956
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b1956.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_b1956.dir/feature_tests.cxx.o  -o cmTC_b1956 
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -446,17 +446,17 @@ gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_ceaae/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_ceaae.dir/build.make CMakeFiles/cmTC_ceaae.dir/build
-gmake[1]: Entering directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ceaae.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_ceaae.dir/feature_tests.cxx.o -c /home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_ceaae
-/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ceaae.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_ceaae.dir/feature_tests.cxx.o  -o cmTC_ceaae 
-gmake[1]: Leaving directory `/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_183d8/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_183d8.dir/build.make CMakeFiles/cmTC_183d8.dir/build
+gmake[1]: Entering directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_183d8.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_183d8.dir/feature_tests.cxx.o -c /home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_183d8
+/home/cserv1_b/apps/install/clion/2017.1.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_183d8.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_183d8.dir/feature_tests.cxx.o  -o cmTC_183d8 
+gmake[1]: Leaving directory `/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

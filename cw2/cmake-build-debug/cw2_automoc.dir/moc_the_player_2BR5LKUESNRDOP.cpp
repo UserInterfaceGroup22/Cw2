@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../../../../../../../cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h"
+#include "../../../../../../../cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/the_player.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)

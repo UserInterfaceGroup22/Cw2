@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/the_button.h
 QtWidgets/QPushButton
 -
 
-/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
+/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/the_player.h
 QApplication
 -
 QMediaPlayer
 -
 the_button.h
-/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/the_button.h
 vector
 -
 QTimer
@@ -1358,53 +1358,53 @@ QtGui/qkeysequence.h
 QtGui/qevent.h
 -
 
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.cpp
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/cw2_automoc.cpp
 cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
 cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
 
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
-../../../../../../../../cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
-/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_button_XDARI7HC7VIRXO.cpp
+../../../../../../../cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/the_button.h
+/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/the_button.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
-../../../../../../../../cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
-/home/cserv1_a/soc_ug/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/cw2_automoc.dir/moc_the_player_2BR5LKUESNRDOP.cpp
+../../../../../../../cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/the_player.h
+/home/cserv1_a/soc_msc/sc18msru/CW2/Cw2/cw2/the_player.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.cpp
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_button.cpp
 the_button.h
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_button.h
 
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_button.h
 QtWidgets/QPushButton
 -
 
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.cpp
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_player.cpp
 the_player.h
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_player.h
 
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_player.h
 QApplication
 -
 QMediaPlayer
 -
 the_button.h
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_button.h
 vector
 -
 QTimer
 -
 
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/tomeo.cpp
+/home/csunix/sc18msru/CW2/Cw2/cw2/tomeo.cpp
 iostream
 -
 QApplication
@@ -1434,9 +1434,9 @@ QtCore/QDirIterator
 QtCore/QMargins
 -
 the_player.h
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_player.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_player.h
 the_button.h
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/the_button.h
+/home/csunix/sc18msru/CW2/Cw2/cw2/the_button.h
 QtWidgets/QScrollArea
 -
 

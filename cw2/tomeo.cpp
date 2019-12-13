@@ -93,7 +93,7 @@ int main(int argc, char *argv[]) {
     // collect all the videos in the folder
     vector<TheButtonInfo> videos;
     if (argc == 1)
-        videos = getInfoIn( "/home/csunix/ll17u4a/Desktop/2811_videos" );
+        videos = getInfoIn( "/home/csunix/sc18msru/Videos/2811_videos" );
     else
         videos = getInfoIn( string(argv[1]) );
     if (videos.size() == 0) {
@@ -125,7 +125,7 @@ int main(int argc, char *argv[]) {
             TheButton *button = new TheButton(buttonWidget);
             button->connect(button, SIGNAL(jumpTo(TheButtonInfo* )), player, SLOT (jumpTo(TheButtonInfo* ))); // when clicked, tell the player to play.
             buttons.push_back(button);
-//            button->setFixedSize(150,100);
+            button->setFixedSize(150,100);
 //            button->setIconSize(QSize(140,90));
 //            button->setStyleSheet("border: 1px solid red;");
 //            button->setFlat(true);
@@ -135,15 +135,15 @@ int main(int argc, char *argv[]) {
         }
 
 
-
-
+    Scroll->setWidget(buttonWidget);
+    Scroll->setFixedWidth(200);
     // tell the player what buttons and videos are available
     player->setContent(&buttons, & videos);
 
 
     // add the video and the buttons to the top level widget
     top->addWidget(videoWidget);
-    top->addWidget(buttonWidget);
+    top->addWidget(Scroll);
 
     // showtime!
     window.show();

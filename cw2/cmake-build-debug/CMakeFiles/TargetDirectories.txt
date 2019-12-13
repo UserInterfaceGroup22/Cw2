@@ -1,4 +1,4 @@
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir
-/home/csunix/ll17u4a/Desktop/git/ui_Cw2/cw2/cmake-build-debug/CMakeFiles/cw2_automoc.dir
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2.dir
+/home/csunix/sc18msru/CW2/Cw2/cw2/cmake-build-debug/CMakeFiles/cw2_automoc.dir
