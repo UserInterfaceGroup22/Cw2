@@ -125,10 +125,10 @@ int main(int argc, char *argv[]) {
             TheButton *button = new TheButton(buttonWidget);
             button->connect(button, SIGNAL(jumpTo(TheButtonInfo* )), player, SLOT (jumpTo(TheButtonInfo* ))); // when clicked, tell the player to play.
             buttons.push_back(button);
-            button->setFixedSize(150,100);
+            button->setFixedSize(165,100);
 //            button->setIconSize(QSize(140,90));
 //            button->setStyleSheet("border: 1px solid red;");
-//            button->setFlat(true);
+//            button->setFlat(false);
 
             layout->addWidget(button);
             button->init(&videos.at(i));
